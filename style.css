@@ -1,0 +1,14 @@
+.tutorial-button {
+    background-color: #28a7e1;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  .tutorial-button:hover {
+    background-color: #0056b3;
+  }
