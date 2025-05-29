@@ -1,10 +1,8 @@
 # [开源] 亚博智能官网教程阅读体验优化浏览器插件
 **支持 Edge / Chrome**
 
-@[toc]
-
 安装方法请参考：https://zhuanlan.zhihu.com/p/361955238
-开源仓库：
+
 ## 使用效果
 ### 1. 对代码块添加复制代码按钮
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/652b956dddaf4c04ab7be62f9e9bc5de.png)
