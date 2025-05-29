@@ -168,4 +168,4 @@ const addCopyButton = () => {
 // Call function to hide elements
 hideElements();
 setInterval(hideElements, 2000);
-setInterval(addCopyButton, 5000);
+setInterval(addCopyButton, 1000);
