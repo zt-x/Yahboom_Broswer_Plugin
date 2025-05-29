@@ -1,8 +1,9 @@
-# [开源] 亚博智能官网教程阅读体验优化浏览器插件
+# 亚博智能官网教程阅读体验优化浏览器插件
 **支持 Edge / Chrome**
 
-安装方法请参考：https://zhuanlan.zhihu.com/p/361955238
-
+安装方法请参考：[https://zhuanlan.zhihu.com/p/361955238](https://zhuanlan.zhihu.com/p/361955238)
+crx插件下载：[https://pan.baidu.com/s/1J-ZJ-Pod68Z13VUVHPwYrw?pwd=a9fm](https://pan.baidu.com/s/1J-ZJ-Pod68Z13VUVHPwYrw?pwd=a9fm)
+开源仓库：[https://github.com/zt-x/Yahboom_Broswer_Plugin/tree/master](https://github.com/zt-x/Yahboom_Broswer_Plugin/tree/master)
 ## 使用效果
 ### 1. 对代码块添加复制代码按钮
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/652b956dddaf4c04ab7be62f9e9bc5de.png)
@@ -29,7 +30,10 @@ invalid character
 ### 2. 移除右侧遮挡视线的二维码
 移除了这个侧面的二维码，提供更加纯净的阅读体验
 
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/c22c38a010d7498f969a1228601901c1.png)<br>
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/b304cc3e965a4b0ebf92efc286a17fa3.png)
+
+
+<br>
 
 
 ### 3. 添加了【上一节/下一节】的按钮
